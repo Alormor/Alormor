@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there! I'm Abraham Lorenzo Moreno
 
-<!--
-**Alormor/Alormor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about web development and software engineering.  
+💡 I enjoy learning new technologies, building small projects and improving a little every day.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Java, PHP  
+- **Tools:** Git & GitHub, Visual Studio Code, PhpStorm  
+- **Learning:** Laravel, React, Ajax, Sass, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently
+- Expanding my knowledge in **full-stack web development**  
+- Working on personal projects to strengthen my coding skills  
+
+## 📫 Get in touch
+- ✉️ abralorenzo@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/abraham-lorenzo-moreno-2836692b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1VHO3BppRdq6PEVAzjuKtw%3D%3D)
+
+---
+
+⭐️ *I'm still learning, but excited to grow and share my journey as a developer.*
