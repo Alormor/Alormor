@@ -1,8 +1,10 @@
 # 👋 Hi there! I'm Abraham Lorenzo Moreno
 
-🎓 I'm a student passionate about web development and software engineering.  
+🎓 I'm a student passionate about web development 
+and software engineering.  
 🌍 Based in Granada, Spain.
-💡 I enjoy learning new technologies, building small projects and improving a little every day.
+💡 I enjoy learning new technologies, building 
+small projects and improving a little every day.
 
 
 ## 🚀 Tech Stack
