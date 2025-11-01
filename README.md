@@ -5,10 +5,10 @@
 🌍 Based in Granada, Spain.
 
 ## 🚀 Tech Stack
-🔹 **Frontend:** HTML5, CSS3, JavaScript
-🔹 **Backend:** Java, PHP  
-🔹 **Tools:** Git & GitHub, Visual Studio Code, PhpStorm  
-🔹 **Learning:** Laravel, React, Ajax, Sass, Bootstrap
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Java, PHP  
+- **Tools:** Git & GitHub, Visual Studio Code, PhpStorm  
+- **Learning:** Laravel, React, Ajax, Sass, Bootstrap
 
 ## 🧩 Featured Projects
 🔹 [**Minigames Collection**](https://github.com/Alormor/Minigames) — A set of some small JavaScript games in a grid layout.  
