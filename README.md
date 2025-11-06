@@ -12,6 +12,8 @@
 
 ## 🧩 Featured Projects
 🔹 [**Minigames Collection**](https://github.com/Alormor/Minigames) — A set of some small JavaScript games in a grid layout.  
+🔹 [**Hangman Game**](https://github.com/Alormor/HangmanGame) — A simple hangman game in JavaScript.  
+
 
 ## 🌱 Currently
 - Expanding my knowledge in **full-stack web development**  
