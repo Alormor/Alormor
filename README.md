@@ -13,6 +13,7 @@
 ## 🧩 Featured Projects
 🔹 [**Minigames Collection**](https://github.com/Alormor/Minigames) — A set of some small JavaScript games in a grid layout.  
 🔹 [**Hangman Game**](https://github.com/Alormor/Hangman) — A simple hangman game in JavaScript.  
+🔹 [**Pairs Game**](https://github.com/Alormor/PairsGame) — A simple pair matching game. 
 
 
 ## 🌱 Currently
