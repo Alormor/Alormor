@@ -10,10 +10,10 @@
 - **Tools:** Git & GitHub, Visual Studio Code, PhpStorm  
 - **Learning:** Laravel, React, Ajax, Sass, Bootstrap
 
-## 🧩 Featured Projects
-🔹 [**Minigames Collection**](https://github.com/Alormor/Minigames) — A set of some small JavaScript games in a grid layout.  
+## 🧩 Featured Projects 
+🔹 [**Minigames Collection**](https://github.com/Alormor/Minigames) — A set of small JavaScript games in a grid layout.  
 🔹 [**Hangman Game**](https://github.com/Alormor/Hangman) — A simple hangman game in JavaScript.  
-🔹 [**Pairs Game**](https://github.com/Alormor/PairsGame) — A simple pair matching game. 
+🔹 [**Pairs Game**](https://github.com/Alormor/PairsGame) — A simple pair matching game.  
 🔹 [**Arkanoid**](https://github.com/Alormor/Arkanoid) — A simpler version of the classic Arkanoid game.  
 
 
