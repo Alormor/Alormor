@@ -1,20 +1,21 @@
 # 👋 Hi there! I'm Abraham Lorenzo Moreno
 
 🎓 I'm a student passionate about web development and software engineering.  
-💡 I enjoy learning new technologies, building small projects and improving a little every day.<br>
-🌍 Based in Granada, Spain.
+💡 I enjoy learning new technologies, building small projects and improving a little every day.  
+🌍 Based in Granada, Spain.  
 
 ## 🚀 Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** Java, PHP  
 - **Tools:** Git & GitHub, Visual Studio Code, PhpStorm  
-- **Learning:** Laravel, React, Ajax, Sass, Bootstrap
+- **Learning:** React, Ajax, Vue.js, Laravel, Bootstrap, Sass, 
 
 ## 🧩 Featured Projects 
 🔹 [**Minigames Collection**](https://github.com/Alormor/Minigames) — A set of small JavaScript games in a grid layout.  
 🔹 [**Hangman Game**](https://github.com/Alormor/Hangman) — A simple hangman game in JavaScript.  
 🔹 [**Pairs Game**](https://github.com/Alormor/PairsGame) — A simple pair matching game.  
 🔹 [**Arkanoid**](https://github.com/Alormor/Arkanoid) — A simpler version of the classic Arkanoid game.  
+🔹 [**Movie Browser**](https://github.com/Alormor/MovieBrowser) — A movie browser that makes use of the OMDb API.  
 
 
 ## 🌱 Currently
