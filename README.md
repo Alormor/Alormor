@@ -14,7 +14,7 @@
 🔹 [**Hangman Game**](https://github.com/Alormor/Hangman) — A simple hangman game in JavaScript.  
 🔹 [**Pairs Game**](https://github.com/Alormor/PairsGame) — A simple pair matching game.  
 🔹 [**Arkanoid**](https://github.com/Alormor/Arkanoid) — A simpler version of the classic Arkanoid game.  
-🔹 [**Movie Browser**](https://github.com/Alormor/MovieBrowser) — A movie browser that makes use of the OMDb API. 
+🔹 [**Movie Browser**](https://github.com/Alormor/MovieBrowser) — A movie browser that makes use of the OMDb API.  
 🔹 [**Cross It Off!**](https://github.com/Alormor/CrossItOff) - A to-do list web page made with Vue.js and firebase.  
 🔹 [**Chat Service**](https://github.com/Alormor/ChatService) - A modern real-time chat application featuring private messaging and group channels. Built with Vue 3, Firebase and Node.js.
 
