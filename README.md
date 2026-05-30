@@ -5,17 +5,18 @@
 🌍 Based in Granada, Spain.  
 
 ## 🚀 Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Java, PHP  
+- **Frontend:** HTML5, CSS3, JavaScript, React, Ajax, Vue.js, SaSS, Parcel
+- **Backend:** Java, PHP, Laravel  
 - **Tools:** Git & GitHub, Visual Studio Code, PhpStorm  
-- **Learning:** React, Ajax, Vue.js, Laravel, Bootstrap, Sass, 
 
 ## 🧩 Featured Projects 
 🔹 [**Minigames Collection**](https://github.com/Alormor/Minigames) — A set of small JavaScript games in a grid layout.  
 🔹 [**Hangman Game**](https://github.com/Alormor/Hangman) — A simple hangman game in JavaScript.  
 🔹 [**Pairs Game**](https://github.com/Alormor/PairsGame) — A simple pair matching game.  
 🔹 [**Arkanoid**](https://github.com/Alormor/Arkanoid) — A simpler version of the classic Arkanoid game.  
-🔹 [**Movie Browser**](https://github.com/Alormor/MovieBrowser) — A movie browser that makes use of the OMDb API.  
+🔹 [**Movie Browser**](https://github.com/Alormor/MovieBrowser) — A movie browser that makes use of the OMDb API. 
+🔹 [**Cross It Off!**](https://github.com/Alormor/CrossItOff) - A to-do list web page made with Vue.js and firebase.  
+🔹 [**Chat Service**](https://github.com/Alormor/ChatService) - A modern real-time chat application featuring private messaging and group channels. Built with Vue 3, Firebase and Node.js.
 
 
 ## 🌱 Currently
@@ -24,6 +25,7 @@
 
 ## 📫 Get in touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/abraham-lorenzo-moreno-2836692b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1VHO3BppRdq6PEVAzjuKtw%3D%3D)
+- 📧 abralorenzo@gmail.com
 
 ---
 
